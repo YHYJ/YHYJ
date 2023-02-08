@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm YJ</h1>
 
-<h3 align="center">A passionate frontend developer from Earth 🌏</h3>
+<h3 align="center">A robot from Earth 🌏</h3>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{YHYJ}/count.svg" alt="YHYJ :: Visitor's Count" /></p>
 
