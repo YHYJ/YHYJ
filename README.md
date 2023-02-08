@@ -6,7 +6,7 @@
 
 - 🌱 Module loading: <a href="https://golang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="26" height="26"/></a><a href="https://www.rust-lang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="28" height="28"/></a>
 - 🚩 My outpost: <a href="https://github.com/YHYJ"><img src="https://img.shields.io/github/followers/YHYJ.svg?label=GitHub&style=social" alt="YHYJ :: GitHub Followers"></a>
-- 🏡 My base: <a href="https://yj1516.top"><img src="https://yj1516.top/images/favicon/favicon.ico" alt="YHYJ :: Base" width="34" height="28"/></a>
+- 🏡 My base: <a href="https://yj1516.top"><img src="https://yj1516.top/images/favicon/favicon.ico" alt="YHYJ :: Base" width="30" height="28"/></a>
 - 🤖 My OS: <a href="https://archlinux.org"><img src="https://img.shields.io/badge/arch%20linux-0066cc.svg?style=for-the-badge&logo=arch-linux&logoColor=0066cc&labelColor=ffffff" alt="Arch Linux"/></a>, secondary OS: <a href="https://apple.com"><img src="https://img.shields.io/badge/macos-black.svg?style=for-the-badge&logo=apple&logoColor=black&labelColor=ffffff" alt="Apple"/></a>
 - 📫 My number: [![Mail](https://img.shields.io/badge/Outlook-yj1516268%40outlook.com-blue)](mailto:yj1516268@outlook.com)
 
@@ -49,7 +49,7 @@
 
 <p align="center"><a href="https://github.com/YHYJ/YHYJ"><img src="https://github-profile-trophy.vercel.app/?username=yhyj&column=-1&margin-w=15&no-bg=false&no-frame=true" alt="YHYJ :: Profile Trophy" /></a></p>
 
-<p>
+<p align="center">
 <!-- <img align='left' src="https://raw.githubusercontent.com/YHYJ/YHYJ/main/src/img/octocat.gif" width="230"> -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YHYJ&langs_count=10&theme=tokyonight&layout=compact" alt="YHYJ :: Top Languages" />
 <!-- <img align='right' src="https://raw.githubusercontent.com/YHYJ/YHYJ/main/src/img/octocat.gif" width="230"> -->
