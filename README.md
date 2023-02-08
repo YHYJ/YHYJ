@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{YHYJ}/count.svg" alt="YHYJ :: Visitor's Count" /></p>
 
-<div class="center">
+<div align="center">
 
 | SN    | Components       | Materials                                                    |
 | :---- | :--------------- | :----------------------------------------------------------- |
