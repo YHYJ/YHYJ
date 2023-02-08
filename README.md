@@ -4,19 +4,13 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{YHYJ}/count.svg" alt="YHYJ :: Visitor's Count" /></p>
 
-- 🌱 Module loading: <a href="https://golang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="26" height="26"/></a><a href="https://www.rust-lang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="28" height="28"/></a>
-- 🚩 My outpost: <a href="https://github.com/YHYJ"><img src="https://img.shields.io/github/followers/YHYJ.svg?label=GitHub&style=social" alt="YHYJ :: GitHub Followers"></a>
-- 🏡 My base: <a href="https://yj1516.top"><img src="https://yj1516.top/images/favicon/favicon.ico" alt="YHYJ :: Base" width="28" height="28"/></a>
-- 🤖 My OS: <a href="https://archlinux.org"><img src="https://img.shields.io/badge/arch%20linux-0066CC.svg?style=for-the-badge&logo=arch-linux&logoColor=0066CC&labelColor=DDE1E6" alt="Arch Linux"/></a>, secondary OS: <a href="https://apple.com"><img src="https://img.shields.io/badge/macos-black.svg?style=for-the-badge&logo=apple&logoColor=black&labelColor=DDE1E6" alt="Apple"/></a>
-- 📫 My number: [![Mail](https://img.shields.io/badge/Outlook-yj1516268%40outlook.com-blue)](mailto:yj1516268@outlook.com)
-
-| SN    | Components       | Materials                                                    |
-| ----- | :--------------- | :----------------------------------------------------------- |
-| 0x001 | 🌱 Module loading | <a href="https://golang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="26" height="26"/></a><a href="https://www.rust-lang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="28" height="28"/></a> |
-| 0x002 | 🚩 My outpost     | <a href="https://github.com/YHYJ"><img src="https://img.shields.io/github/followers/YHYJ.svg?label=GitHub&style=social" alt="YHYJ :: GitHub Followers"></a> |
-| 0x003 | 🏡 My base        | <a href="https://yj1516.top"><img src="https://yj1516.top/images/favicon/favicon.ico" alt="YHYJ :: Base" width="28" height="28"/></a> |
+| SN    | Components        | Materials                                                                                                                                                                                                                                                                                                                                                           |
+| ----- | :---------------  | :-----------------------------------------------------------                                                                                                                                                                                                                                                                                                        |
+| 0x001 | 🌱 Module loading | <a href="https://golang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="26" height="26"/></a><a href="https://www.rust-lang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="28" height="28"/></a>                      |
+| 0x002 | 🚩 My outpost     | <a href="https://github.com/YHYJ"><img src="https://img.shields.io/github/followers/YHYJ.svg?label=GitHub&style=social" alt="YHYJ :: GitHub Followers"></a>                                                                                                                                                                                                         |
+| 0x003 | 🏡 My base        | <a href="https://yj1516.top"><img src="https://yj1516.top/images/favicon/favicon.ico" alt="YHYJ :: Base" width="28" height="28"/></a>                                                                                                                                                                                                                               |
 | 0x004 | 🤖 My OS          | <a href="https://archlinux.org"><img src="https://img.shields.io/badge/arch%20linux-0066CC.svg?style=for-the-badge&logo=arch-linux&logoColor=0066CC&labelColor=DDE1E6" alt="Arch Linux"/></a><a href="https://apple.com"><img src="https://img.shields.io/badge/macos-black.svg?style=for-the-badge&logo=apple&logoColor=black&labelColor=DDE1E6" alt="Apple"/></a> |
-| 0x005 | 📫 My number      | [![Mail](https://img.shields.io/badge/Outlook-yj1516268%40outlook.com-blue)](mailto:yj1516268@outlook.com) |
+| 0x005 | 📫 My number      | [![Mail](https://img.shields.io/badge/Outlook-yj1516268%40outlook.com-blue)](mailto:yj1516268@outlook.com)                                                                                                                                                                                                                                                          |
 
 
 
