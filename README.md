@@ -14,6 +14,8 @@
 | 0x004 | 🤖 My OS          | <a href="https://archlinux.org"><img src="https://img.shields.io/badge/arch%20linux-0066CC.svg?style=for-the-badge&logo=arch-linux&logoColor=0066CC&labelColor=DDE1E6" alt="Arch Linux"/></a> <a href="https://apple.com"><img src="https://img.shields.io/badge/macos-black.svg?style=for-the-badge&logo=apple&logoColor=black&labelColor=DDE1E6" alt="Apple"/></a> |
 | 0x005 | 📫 My number      | [![Mail](https://img.shields.io/badge/Outlook-yj1516268%40outlook.com-blue)](mailto:yj1516268@outlook.com) |
 
+</div>
+
 <h2 align="center">Languages and Tools:</h2>
 
 <p align="left">
