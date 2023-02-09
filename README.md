@@ -72,7 +72,7 @@
 ---
 
 <p>
-<img align="left" width="408" src="https://github-readme-stats.vercel.app/api?username=YHYJ&show_icons=true&theme=synthwave" alt="YHYJ :: Profile Stats" />
-<img align="right" width="408" src="https://github-readme-streak-stats.herokuapp.com/?user=YHYJ&theme=dark" alt="YHYJ :: Profile Stats" />
+<img align="left" width="406" src="https://github-readme-stats.vercel.app/api?username=YHYJ&show_icons=true&theme=synthwave" alt="YHYJ :: Profile Stats" />
+<img align="right" width="406" src="https://github-readme-streak-stats.herokuapp.com/?user=YHYJ&theme=dark" alt="YHYJ :: Profile Stats" />
 </p>
 
