@@ -56,18 +56,10 @@
 <p align="center"><a href="https://github.com/YHYJ/YHYJ"><img src="https://github-profile-trophy.vercel.app/?username=yhyj&column=-1&margin-w=15&no-bg=false&no-frame=true" alt="YHYJ :: Profile Trophy" /></a></p>
 
 <p align="center">
-<!-- <img align='left' src="https://raw.githubusercontent.com/YHYJ/YHYJ/main/src/img/octocat.gif" width="230"> -->
+<img align='left' src="https://raw.githubusercontent.com/YHYJ/YHYJ/main/src/img/octocat.gif" width="230">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YHYJ&langs_count=10&theme=tokyonight&layout=compact" alt="YHYJ :: Top Languages" />
-<!-- <img align='right' src="https://raw.githubusercontent.com/YHYJ/YHYJ/main/src/img/octocat.gif" width="230"> -->
+<img align='right' src="https://raw.githubusercontent.com/YHYJ/YHYJ/main/src/img/octocat.gif" width="230">
 </p>
-
-<!-- <p align="center"> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=YHYJ&show_icons=true&theme=synthwave" alt="YHYJ :: Profile Stats" /> -->
-<!-- </p> -->
-<!--  -->
-<!-- <p align="center"> -->
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=YHYJ&theme=dark" alt="YHYJ :: Profile Stats" /> -->
-<!-- </p> -->
 
 <p>
 <img align="left" width="402" height="158" src="https://github-readme-stats.vercel.app/api?username=YHYJ&show_icons=true&theme=synthwave" alt="YHYJ :: Profile Stats" />
