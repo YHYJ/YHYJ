@@ -73,6 +73,6 @@
 
 <p>
 <img align="left" width="402" src="https://github-readme-stats.vercel.app/api?username=YHYJ&show_icons=true&theme=synthwave" alt="YHYJ :: Profile Stats" />
-<img align="right" width="402" height="166" src="https://github-readme-streak-stats.herokuapp.com/?user=YHYJ&theme=dark" alt="YHYJ :: Profile Stats" />
+<img align="right" width="402" height="176" src="https://github-readme-streak-stats.herokuapp.com/?user=YHYJ&theme=dark" alt="YHYJ :: Profile Stats" />
 </p>
 
