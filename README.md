@@ -51,7 +51,7 @@
 <!-- <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a> -->
 </p>
 
-<h2 align="center">Github stats</h2>
+<h2 align="center">Github Stats</h2>
 
 <p align="center"><a href="https://github.com/YHYJ/YHYJ"><img src="https://github-profile-trophy.vercel.app/?username=yhyj&column=-1&margin-w=15&no-bg=false&no-frame=true" alt="YHYJ :: Profile Trophy" /></a></p>
 
@@ -72,7 +72,7 @@
 ---
 
 <p>
-<img align="left" width="406" src="https://github-readme-stats.vercel.app/api?username=YHYJ&show_icons=true&theme=synthwave" alt="YHYJ :: Profile Stats" />
-<img align="right" width="406" src="https://github-readme-streak-stats.herokuapp.com/?user=YHYJ&theme=dark" alt="YHYJ :: Profile Stats" />
+<img align="left" width="404" src="https://github-readme-stats.vercel.app/api?username=YHYJ&show_icons=true&theme=synthwave" alt="YHYJ :: Profile Stats" />
+<img align="right" width="404" src="https://github-readme-streak-stats.herokuapp.com/?user=YHYJ&theme=dark" alt="YHYJ :: Profile Stats" />
 </p>
 
