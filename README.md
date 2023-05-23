@@ -9,9 +9,9 @@
 | SN    | Components       | Materials                                                    |
 | :---- | :--------------- | :----------------------------------------------------------- |
 | 0x001 | 🌱 Module loading | <a href="https://golang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="26" height="26"/></a><a href="https://www.rust-lang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="28" height="28"/></a> |
-| 0x002 | 🚩 My outpost     | <a href="https://github.com/YHYJ"><img src="https://img.shields.io/github/followers/YHYJ.svg?label=GitHub&style=social" alt="YHYJ :: GitHub Followers"></a> |
+| 0x002 | 🚩 My outpost     | <a href="https://github.com/YHYJ"><img src="https://img.shields.io/github/followers/YHYJ.svg?label=GitHub&style=flat-square&logo=GitHub&logoColor=black&color=brightgreen&labelColor=9cf" alt="YHYJ :: GitHub Followers"></a> |
 | 0x003 | 🏡 My base        | <a href="https://yj1516.top"><img src="https://yj1516.top/images/favicon/favicon.ico" alt="YHYJ :: Base" width="28" height="28"/></a> |
-| 0x004 | 🤖 My OS          | <a href="https://archlinux.org"><img src="https://img.shields.io/badge/arch%20linux-0066CC.svg?style=for-the-badge&logo=arch-linux&logoColor=0066CC&labelColor=DDE1E6" alt="Arch Linux"/></a> <a href="https://apple.com"><img src="https://img.shields.io/badge/macos-black.svg?style=for-the-badge&logo=apple&logoColor=black&labelColor=DDE1E6" alt="Apple"/></a> |
+| 0x004 | 🤖 My OS          | <a href="https://archlinux.org"><img src="https://img.shields.io/badge/arch%20linux-0066CC.svg?style=for-the-badge&logo=arch-linux&logoColor=0066CC&labelColor=DDE1E6" alt="Arch Linux"/></a> <a href="https://apple.com"><img src="https://img.shields.io/badge/macos-lightgrey.svg?style=for-the-badge&logo=apple&logoColor=D0D0D0&labelColor=white" alt="Apple"/></a> |
 | 0x005 | 📫 My number      | [![Mail](https://img.shields.io/badge/Outlook-yj1516268%40outlook.com-blue)](mailto:yj1516268@outlook.com) |
 
 </div>
@@ -53,15 +53,15 @@
 
 <h2 align="center">Github Stats</h2>
 
-<p align="center"><a href="https://github.com/YHYJ/YHYJ"><img src="https://github-profile-trophy.vercel.app/?username=yhyj&column=-1&margin-w=15&no-bg=false&no-frame=true" alt="YHYJ :: Profile Trophy" /></a></p>
+<p align="center"><a href="https://github.com/YHYJ/YHYJ"><img src="https://github-profile-trophy.vercel.app/?username=yhyj&column=-1&margin-w=15&no-bg=false&no-frame=true&theme=dark_lover" alt="YHYJ :: Profile Trophy" /></a></p>
 
 <p align="center">
 <img align='left' src="https://raw.githubusercontent.com/YHYJ/YHYJ/main/src/img/octocat.gif" width="230">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YHYJ&langs_count=10&theme=tokyonight&layout=compact" alt="YHYJ :: Top Languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YHYJ&langs_count=10&theme=transparent&layout=compact" alt="YHYJ :: Top Languages" />
 <img align='right' src="https://raw.githubusercontent.com/YHYJ/YHYJ/main/src/img/octocat.gif" width="230">
 </p>
 
 <p>
-<img align="left" width="402" height="158" src="https://github-readme-stats.vercel.app/api?username=YHYJ&show_icons=true&theme=synthwave" alt="YHYJ :: Profile Stats" />
-<img align="right" width="402" height="158" src="https://github-readme-streak-stats.herokuapp.com/?user=YHYJ&theme=dark" alt="YHYJ :: Profile Stats" />
+<img align="left" width="402" height="158" src="https://github-readme-stats.vercel.app/api?username=YHYJ&show_icons=true&theme=transparent" alt="YHYJ :: Profile Stats" />
+<img align="right" width="402" height="158" src="https://github-readme-streak-stats.herokuapp.com/?user=YHYJ&theme=blueberry-duo" alt="YHYJ :: Profile Stats" />
 </p>
