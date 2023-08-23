@@ -53,7 +53,7 @@
 
 <h2 align="center">Github Stats</h2>
 
-<p align="center"><a href="https://github.com/YHYJ/YHYJ"><img src="https://github-profile-trophy.vercel.app/?username=yhyj&column=-1&margin-w=15&no-bg=false&no-frame=true&theme=dark_lover" alt="YHYJ :: Profile Trophy" /></a></p>
+<p align="center"><a href="https://github.com/YHYJ/YHYJ"><img src="https://github-profile-trophy.vercel.app/?username=yhyj&column=-1&margin-w=15&no-bg=false&no-frame=true" alt="YHYJ :: Profile Trophy" /></a></p>
 
 <p align="center">
 <img align='left' src="https://raw.githubusercontent.com/YHYJ/YHYJ/main/src/img/octocat.gif" width="230">
