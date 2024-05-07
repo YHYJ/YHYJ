@@ -6,13 +6,13 @@
 
 <div align="center">
 
-| SN    | Components       | Materials                                                    |
-| :---- | :--------------- | :----------------------------------------------------------- |
-| 0x001 | 🌱 Module loading | <a href="https://golang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="26" height="26"/></a><a href="https://www.rust-lang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="28" height="28"/></a> |
-| 0x002 | 🚩 My outpost     | <a href="https://github.com/YHYJ"><img src="https://img.shields.io/github/followers/YHYJ.svg?label=GitHub&style=flat-square&logo=GitHub&logoColor=black&color=brightgreen&labelColor=9cf" alt="YHYJ :: GitHub Followers"></a> |
-| 0x003 | 🏡 My base        | <a href="https://yj1516.top"><img src="https://yj1516.top/static/images/favicon/favicon/favicon.ico" alt="YHYJ :: Base" width="28" height="28"/></a> |
+| SN    | Components        | Materials                                                                                                                                                                                                                                                                                                                                                            |
+| :---- | :---------------  | :-----------------------------------------------------------                                                                                                                                                                                                                                                                                                         |
+| 0x001 | 🏡 My base        | <a href="https://yj1516.top"><img src="https://yj1516.top/static/images/favicon/favicon/favicon.ico" alt="YHYJ :: Base" width="28" height="28"/></a>                                                                                                                                                                                                                 |
+| 0x002 | 🚩 My outpost     | <a href="https://github.com/YHYJ"><img src="https://img.shields.io/github/followers/YHYJ.svg?label=GitHub&style=flat-square&logo=GitHub&logoColor=black&color=brightgreen&labelColor=9cf" alt="YHYJ :: GitHub Followers"></a>                                                                                                                                        |
+| 0x003 | 🌱 Module loading | <a href="https://golang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="26" height="26"/></a><a href="https://www.rust-lang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="28" height="28"/></a>                    |
 | 0x004 | 🤖 My OS          | <a href="https://archlinux.org"><img src="https://img.shields.io/badge/arch%20linux-0066cc.svg?style=for-the-badge&logo=arch-linux&logoColor=0066cc&labelColor=ffffff" alt="Arch Linux"/></a> <a href="https://apple.com"><img src="https://img.shields.io/badge/macos-black.svg?style=for-the-badge&logo=apple&logoColor=black&labelColor=ffffff" alt="Apple"/></a> |
-| 0x005 | 📫 My number      | [![Mail](https://img.shields.io/badge/Outlook-yj1516268%40outlook.com-blue)](mailto:yj1516268@outlook.com) |
+| 0x005 | 📫 My number      | [![Mail](https://img.shields.io/badge/Outlook-yj1516268%40outlook.com-blue)](mailto:yj1516268@outlook.com)                                                                                                                                                                                                                                                           |
 
 </div>
 
@@ -47,8 +47,6 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
 <a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/></a>
 <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/></a>
-<!-- <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a> -->
-<!-- <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a> -->
 </p>
 
 <h2 align="center">Github Stats</h2>
