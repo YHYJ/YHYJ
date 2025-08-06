@@ -16,15 +16,15 @@
 
 <h2 align="center">Languages and Tools:</h2>
 
-<div align="center">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="60" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" width="60" height="40"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="Flask" width="60" height="40"/></a>
-<a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Golang" width="60" height="40"/></a>
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" width="60" height="40"/></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue" width="60" height="40"/></a>
-<!-- <a href="https://nim-lang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nim-lang/nim-lang-icon.svg" alt="Nim" width="60" height="40"/></a> -->
-<!-- <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="60" height="40"/></a> -->
+<div align="center" style="gap: 10px">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="40"/></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" height="40"/></a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="Flask" height="40"/></a>
+<a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Golang" height="40"/></a>
+<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" height="40"/></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue" height="40"/></a>
+<!-- <a href="https://nim-lang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nim-lang/nim-lang-icon.svg" alt="Nim" height="40"/></a> -->
+<!-- <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" height="40"/></a> -->
 </div>
 
 <div align="center" style="display: flex; gap: 10px">
