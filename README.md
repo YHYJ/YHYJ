@@ -27,7 +27,7 @@
 <!-- <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="60" height="40"/></a> -->
 </div>
 
-<div align="center" style="display: flex">
+<div align="center" style="display: flex; gap: 10px">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="flex: 1"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="flex: 1"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="flex: 1"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" height="40"/></a>
