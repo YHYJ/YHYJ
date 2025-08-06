@@ -16,7 +16,7 @@
 
 <h2 align="center">Languages and Tools:</h2>
 
-<p align="center">
+<div align="center">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="60" height="40"/></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" width="60" height="40"/></a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="Flask" width="60" height="40"/></a>
@@ -25,24 +25,24 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue" width="60" height="40"/></a>
 <!-- <a href="https://nim-lang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nim-lang/nim-lang-icon.svg" alt="Nim" width="60" height="40"/></a> -->
 <!-- <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="60" height="40"/></a> -->
-</p>
+</div>
 
-<p align="center">
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="60" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="60" height="40"/></a>
-<a href="https://travis-ci.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="Travis CI" width="60" height="40"/></a>
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="60" height="40"/></a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="60" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" widtah="40" height="40"/></a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="60" height="40"/></a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" width="60" height="40"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="60" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="40"/></a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="60" height="40"/></a>
-<a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="60" height="40"/></a>
-<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="60" height="40"/></a>
-</p>
+<div align="center" style="display: flex">
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="flex: 1"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="flex: 1"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="flex: 1"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" height="40"/></a>
+<a href="https://travis-ci.org" target="_blank" rel="noreferrer" style="flex: 1"><img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="Travis CI" height="40"/></a>
+<a href="https://mariadb.org/" target="_blank" rel="noreferrer" style="flex: 1"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" height="40"/></a>
+<a href="https://redis.io" target="_blank" rel="noreferrer" style="flex: 1"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="flex: 1"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" height="40"/></a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer" style="flex: 1"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="40"/></a>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer" style="flex: 1"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" height="40"/></a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="flex: 1"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="flex: 1"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40"/></a>
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer" style="flex: 1"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" height="40"/></a>
+<a href="https://grafana.com" target="_blank" rel="noreferrer" style="flex: 1"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" height="40"/></a>
+<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer" style="flex: 1"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" height="40"/></a>
+</div>
 
 
 <h2 align="center">Github Stats</h2>
